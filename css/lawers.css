@@ -1,0 +1,59 @@
+#lawers-advice-media-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-media-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-company-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-company-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-testimony-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-testimony-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-attorney-full-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-attorney-full-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-company-about-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-company-about-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-company-attorney-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-company-attorney-from textarea {
+    width: 100%;
+}
+
+#lawers-advice-company-practice-from input[type=text] {
+    width: 100%;
+}
+
+#lawers-advice-company-practice-from textarea {
+    width: 100%;
+}
+
+.ftco-navbar-light.scrolled {
+    padding-top: 2.2%;
+}
